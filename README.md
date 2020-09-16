@@ -7,15 +7,9 @@ The theme can be used for Powercord and as web a version.
 
 ![Preview](https://i.imgur.com/XJ1uDoR.png)
 
-## Editions
+## Preview
 
-### Discord Revamp
 ![Discord Revamp](https://i.imgur.com/195eQlB.png)
 
 ## Instalation
 Coming Soon
-
-### Powercord
-
-### Web
-
